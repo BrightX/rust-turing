@@ -1,0 +1,11 @@
+[package]
+name = "turing-cipher"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bright Xu <BrightXu666@qq.com>"]
+repository = "https://github.com/BrightX/rust-turing"
+keywords = ["turing", "cipher"]
+license = "MIT OR Apache-2.0"
+readme = "ReadMe.md"
+description = "A fast Rust implementation of Qualcomm's Turing stream cipher."
+include = ["src/**/*", "Cargo.toml", "LICENSE*", "ReadMe.md"]
