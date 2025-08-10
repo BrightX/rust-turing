@@ -26,7 +26,7 @@ Or add the following line to your Cargo.toml:
 
 ```toml
 [dependencies]
-turing-cipher = "0.1.0"
+turing-cipher = "0.1"
 ```
 
 use it in your application:
